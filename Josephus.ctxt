@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Josephus
+comment0.text=\r\n\ Classe\ que\ possui\ a\ fun\u00E7\u00E3o\ de\ iniciar\ a\ simula\u00E7\u00E3o\ do\ problema\ josephus\ e\ que\ possui\ a\ lista\ duplamente\ ligada\ circular\r\n\ que\ representa\ a\ roda\ de\ pessoas.\r\n\ \r\n\ @author\ Beatriz\ Lopes\ Rizzo\ \r\n\ @author\ Guilherme\ Diniz\ Leocadio\r\n\ @author\ Jo\u00E3o\ Pedro\ de\ Souza\ Oliveira\r\n\ @author\ Lucas\ Lombardi\ de\ Brito\r\n\ @version\ 19/06/23\r\n
+comment1.params=nIndividuos\ passo
+comment1.target=Josephus(int,\ int)
+comment1.text=\r\n\ Josephus\ Construtor\r\n\r\n\ @param\ nIndividuos\ Um\ par\u00E2metro\ -\ numero\ de\ individuos\ (nos)\ que\ a\ lista\ duplamente\ ligada\ circular\ ter\u00E1\r\n\ @param\ passo\ Um\ par\u00E2metro\ -\ numero\ que\ define\ a\ contagem\ de\ individuos\ at\u00E9\ a\ morte\ do\ proximo\r\n
+comment10.params=i
+comment10.target=int\ getOrdemRemocao(int)
+comment11.params=
+comment11.target=java.lang.String\ getStringOrdemRemocao()
+comment2.params=roda
+comment2.target=void\ setPosicaoAtual(TAD.ListaDuplamenteLigadaCircular)
+comment3.params=remocao
+comment3.target=void\ setRemocao(int[])
+comment4.params=nIndividuos
+comment4.target=void\ setNIndividuos(int)
+comment5.params=
+comment5.target=int\ getNIndividuos()
+comment6.params=
+comment6.target=int\ getPasso()
+comment7.params=passo
+comment7.target=void\ setPasso(int)
+comment8.params=roda\ posAtual\ passo
+comment8.target=long\ proximoMorto(TAD.ListaDuplamenteLigadaCircular,\ TAD.No,\ int)
+comment9.params=
+comment9.target=void\ processo()
+numComments=12

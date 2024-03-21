@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=qtdIndividuosEPassoException
+comment0.text=\r\n\ Exce\u00E7\u00E3o\ criada\ para\ capturar\ erros\ do\ usuario\ ao\ colocar\ valores\ invalidos\ na\ entrada\r\n\ \r\n\ @author\ Beatriz\ Lopes\ Rizzo\ \r\n\ @author\ Guilherme\ Diniz\ Leocadio\r\n\ @author\ Jo\u00E3o\ Pedro\ de\ Souza\ Oliveira\r\n\ @author\ Lucas\ Lombardi\ de\ Brito\r\n\ @version\ 19/06/23\r\n
+comment1.params=
+comment1.target=qtdIndividuosEPassoException()
+comment1.text=\r\n\ Construtor\ para\ objetos\ da\ classe\ qtdIndividuosException\r\n
+numComments=2

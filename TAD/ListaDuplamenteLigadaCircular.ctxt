@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=ListaDuplamenteLigadaCircular
+comment1.params=
+comment1.target=ListaDuplamenteLigadaCircular()
+comment10.params=
+comment10.target=void\ limparLista()
+comment2.params=
+comment2.target=int\ getQtdNos()
+comment2.text=\r\n\ Metodo\ getQtdNos\r\n\r\n\ @return\ qtidade\ de\ nos\r\n
+comment3.params=qtdNos
+comment3.target=void\ setQtdNos(int)
+comment3.text=\r\n\ Metodo\ setQtdNos\r\n\r\n\ @param\ qtdNos\ atualiza\ qtde\ de\ nos\r\n
+comment4.params=
+comment4.target=boolean\ estaVazia()
+comment5.params=elem
+comment5.target=void\ inserirInicio(java.lang.Object)
+comment6.params=elem
+comment6.target=void\ inserirFim(java.lang.Object)
+comment7.params=key\ elem
+comment7.target=boolean\ inserirApos(long,\ java.lang.Object)
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment9.params=
+comment9.target=java.lang.String\ toStringDoFim()
+numComments=11
